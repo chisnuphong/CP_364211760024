@@ -4,7 +4,7 @@
 username = 'admin'
 password = '1234'
 count = 0
-while i < 3:
+while count < 3:
     u = input('Enter username: ')
     p = input('Enter password: ')
     if u == user and p == password:

@@ -54,3 +54,4 @@ z = 0
 # แสดงผลค่าตัวแปร z formatted print  -- > print(f{...})
 print(f'z = {z}')
 
+

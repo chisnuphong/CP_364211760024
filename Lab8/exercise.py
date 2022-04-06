@@ -22,3 +22,4 @@ print(f'The date  from user : {mynum}')
 print(f'The summation of'
       'thoese integer')
 
+

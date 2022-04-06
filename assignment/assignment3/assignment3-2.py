@@ -13,6 +13,7 @@ def myfunction(var):
     return total
 
 
+
 mynum = getNumber()
 print(f'The data from user: {mynum}')
 print(f'The result of squaring is: {myfunction(mynum)}')

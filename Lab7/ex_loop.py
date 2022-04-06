@@ -18,7 +18,6 @@ print('Peint from for loop')
 
 # for x in range(100):
 #    print('Hello', x)
-
 for x in range (5):
     print(x)
 

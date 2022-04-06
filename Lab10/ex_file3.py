@@ -3,7 +3,7 @@
 import os.path
 
 try:
-    f = open("")
+    f = open("C:\\Users\ACER\Desktop\demo.desktop.txt")
     print(f.read())
 except Exception as e:
     print(e)
@@ -12,4 +12,7 @@ finally:
 
 # delete file
 
-if os.path.exists()
+if os.path.exists("C:\\Users\ACER\Desktop\demo.desktop.txt"):
+    os.remove("C:\\Users\ACER\Desktop\demo.desktop.txt")
+else:
+    print('Could not find a file.')

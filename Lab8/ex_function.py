@@ -15,6 +15,7 @@ def functionC(var1,var2):
 def functionD(*var):
     print('Hello from function D.')
     # for x in var
+
     #   print(x)
     print(var)
 

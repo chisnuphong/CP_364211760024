@@ -1,6 +1,5 @@
 # control flow : it-else
 
-
 # if
 print('start')
 

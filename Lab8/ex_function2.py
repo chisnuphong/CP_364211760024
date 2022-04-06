@@ -1,6 +1,5 @@
 # function and return statement
 
-
 # Validate integer
 def validateInteger(var):
     if var%2 ==0:

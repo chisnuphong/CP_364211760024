@@ -27,7 +27,6 @@ else:
     print('writing contents already.')
 finally:
     f.close()
-
 # create  file write mode 'w'
 try:
     f = open("demo7.txt", 'w')

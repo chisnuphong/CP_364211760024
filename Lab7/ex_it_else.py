@@ -18,7 +18,6 @@
 #        print(f'your  password is not correct.')
 # else:
 #    print(f' username is not correct.')
-
 u = input('Enter username: ')
 if u ==  username:
     p = input('Enter password: ')
